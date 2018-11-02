@@ -1,5 +1,5 @@
 # ReplaceFinder
-Open fman when clicking "Show in Finder". Works only on macOS, obviously. ;)
+Open [fman](https://fman.io/) when clicking "Show in Finder". Works only on macOS, obviously. ;)
 
 Instructions:
 1. Install the plugin: in the fman Command Palette (Cmd+Shift+P) choose `Install plugin` and then `Replace Finder`.
